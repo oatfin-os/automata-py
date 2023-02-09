@@ -1,2 +1,2 @@
-# oatfin-py-client
+# automata-python
 The Oatfin Python Client
