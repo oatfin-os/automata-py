@@ -1,2 +1,2 @@
 # automata-py
-The Oatfin Python Client
+The Oatfin Python automation client.
